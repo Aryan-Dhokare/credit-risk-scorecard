@@ -179,4 +179,4 @@ Most students stop at building a model and reporting accuracy. This project goes
 
 ---
 
-*Aryan Dhokare · BTech CSE · [Your College Name]*
+*Aryan Dhokare · BTech CSE · MIT WPU PUNE*
